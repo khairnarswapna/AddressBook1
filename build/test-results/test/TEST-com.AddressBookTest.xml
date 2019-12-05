@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.AddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-05T09:32:04" hostname="admin142-desktop" time="0.128">
+  <properties/>
+  <testcase name="givenPersonInformation_InProperFormat_ShouldReturnOne" classname="com.AddressBookTest" time="0.128"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

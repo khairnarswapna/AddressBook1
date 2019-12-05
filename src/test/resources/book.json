@@ -1,0 +1,13 @@
+[
+  {
+    "firstname": "Swapna",
+    "lastname": "patil",
+    "mobileNO": "9505205070",
+    "addressObj": {
+      "state": "MH",
+      "address": "G T B  Colony,Old Dhule",
+      "city": "dhule",
+      "zip": "431203"
+    }
+  }
+]
